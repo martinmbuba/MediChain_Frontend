@@ -1,7 +1,9 @@
 function App() {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-50">
-      <h1 className="text-3xl font-bold text-gray-800">MediChain Frontend</h1>
+    <div className="font-sans bg-background min-h-screen flex items-center justify-center">
+      <h1 className="text-4xl text-primary font-semibold">
+        MediChain 
+      </h1>
     </div>
   );
 }
